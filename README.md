@@ -2,6 +2,6 @@
 - StarBucks
 - Samsung
 - Python.org
-- Universiad Panamericana
+- Universidad Panamericana
 - Meda2dAsada
 
